@@ -1,4 +1,3 @@
-
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -41,9 +40,9 @@ public class CaptureDown{
 	            InputStream in = getMethod.getResponseBodyAsStream();
 				ByteArrayOutputStream bAOut = new ByteArrayOutputStream();
 				int c;
-				while ((c = in.read()) != -1) {
+				while ((c = in.read()) != -1)
 					bAOut.write(c);
-				}
+
 				html = bAOut.toByteArray();
 				}catch (HttpException e) {
 					System.err.println("Fatal protocol violation: " + e.getMessage());
