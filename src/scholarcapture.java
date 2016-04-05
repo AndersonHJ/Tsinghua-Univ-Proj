@@ -23,7 +23,7 @@ public class scholarcapture{
 	
 	//public List Results = new ArrayList();
 	
-	public Document Zhuaqu(String URL, int type){
+	public Document fetchPageData(String URL, int type){
 		
 		int c;
 		Document doc = null;
