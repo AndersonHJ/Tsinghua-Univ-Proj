@@ -11,12 +11,10 @@ public class InputURL {
 	public static int count;
 	
 	public static void main(String[] args){
-	
 		count = 0;
-		
 		int sure = 0;
-		scholarcapture Capture = new scholarcapture();
 		
+		scholarcapture Capture = new scholarcapture();
 		InputURL Startfunc = new InputURL();
 		
 		Elements title1 = Capture.fetchPageData("http://scholar.google.com.cn/citations?hl=zh-CN&user=n1zDCkQAAAAJ&pagesize=100&view_op=list_works", 1).select("tr td a.cit-dark-large-link");
@@ -40,10 +38,8 @@ public class InputURL {
 	    		
 	    		if(sub.contains("?"))
 	    			sub = (sub.split("\\?")[0]+"?").toString();
-	    		
 	    		if(sub.contains("!"))
 	    			sub = sub.replaceAll("!", "! ");
-	    			
 	    		if(sub.contains("+")){
 	    			System.out.println(sub);
 	    			sub = sub.replaceAll(" +\\+","+");
@@ -57,7 +53,6 @@ public class InputURL {
 	    			sub = sub.substring(1, sub.length());
 	    	    if(Startfunc.Matching(sub)==0){
 	    	    	//file.write(("--" + ele.get(i).ownText()+"\r\n\r\n").getBytes());
-	    	    	
 	    	    	for(int h=0; h<got.length; h++)
 	    	    		if(Startfunc.Matching(got[h])==1){
 	    	    			sure = 1;
@@ -79,9 +74,28 @@ public class InputURL {
 
 	public void Makedata(Elements title1, Elements title2){
 		
+        elementToMap(title1);
+        elementToMap(title2);
+        
+	    Iterator point = Results.entrySet().iterator();
+	    try{
+		    FileOutputStream file = new FileOutputStream("pipei.txt");
+		    while(point.hasNext()){
+		    	Map.Entry one = (Map.Entry)point.next();
+		    	System.out.println(one.getKey().toString() + "---" + one.getValue()+"\r\n\r\n");
+		    	file.write((one.getKey().toString() + "---" + one.getValue()+"\r\n\r\n").getBytes());
+		    }
+	    
+	    }catch(Exception e){
+	    	e.printStackTrace();
+	    	
+	    }		
+	}
+
+	public void elementToMap(Elements title) {
 		String temp;
-        for(int i=0;i<title1.size();i++){
-        	temp = title1.get(i).html();
+		for(int i=0;i<title.size();i++){
+        	temp = title.get(i).html();
         	Character top = temp.charAt(0);
         	if(Results.containsKey(top)){
         		ArrayList<String> newtemp = Results.get(top);
@@ -99,45 +113,12 @@ public class InputURL {
         	}	
         	//System.out.println(top + temp);
         }
-        
-        for(int i=0;i<title2.size();i++){
-        	temp = title2.get(i).html();
-        	Character top = temp.charAt(0);
-        	if(Results.containsKey(top)){
-        		ArrayList<String> newtemp = Results.get(top);
-        		newtemp.add(temp);
-        		Results.put(top, newtemp);
-        	//	System.out.println(Results.get(top));
-        	//	for(int l=0;l<newtemp.size();l++)
-        		//	System.out.println(top + "--" + l +" "+newtemp.get(l));
-        	}
-        	else{
-        		ArrayList<String> newtemp = new ArrayList<String>();
-        		newtemp.add(temp);
-        		Results.put(top , newtemp);
-        		//System.out.println(top + "==" + Results.get(top).get(0));
-        	}
-	        	//System.out.println(top + temp);
-        }
-	    Iterator point = Results.entrySet().iterator();
-	    try{
-		    FileOutputStream file = new FileOutputStream("pipei.txt");
-		    while(point.hasNext()){
-		    	Map.Entry one = (Map.Entry)point.next();
-		    	System.out.println(one.getKey().toString() + "---" + one.getValue()+"\r\n\r\n");
-		    	file.write((one.getKey().toString() + "---" + one.getValue()+"\r\n\r\n").getBytes());
-		    }
-	    
-	    }catch(Exception e){
-	    	e.printStackTrace();
-	    	
-	    }		
 	}
 
 	public int Matching(String source){
 		try{
 			Character key = new Character(source.charAt(0));
-			if(Results.containsKey(key))
+			if(Results.containsKey(key)){
 				for(int i=0; i<Results.get(key).size(); i++){
 					System.out.println("["+source.toLowerCase()+"]");
 					String tar = new String(Results.get(key).get(i).toLowerCase());
@@ -149,6 +130,7 @@ public class InputURL {
 						return 1;
 					}
 				}
+			}
 			else
 				return 0;
 		}catch(Exception e){

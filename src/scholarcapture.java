@@ -36,16 +36,13 @@ public class scholarcapture{
 		GetMethod getMethod = new GetMethod(URL);
 		
 		getMethod.getParams().setParameter(HttpMethodParams.RETRY_HANDLER, new DefaultHttpMethodRetryHandler(3, false));
-		
-		
+
 		try {
-			
 			FileOutputStream file = new FileOutputStream("output2.txt");	
 			
 			int statusCode = httpClient.executeMethod(getMethod);
 	        if (statusCode != HttpStatus.SC_OK){
-	            System.err.println("Method failed: "
-	                        + getMethod.getStatusLine());
+	            System.err.println("Method failed: " + getMethod.getStatusLine());
 	        }
 	        InputStream in = getMethod.getResponseBodyAsStream();
 	        ByteArrayOutputStream webtext = new ByteArrayOutputStream();
@@ -61,17 +58,15 @@ public class scholarcapture{
 	        else if(type==2)
 	        	doc = Jsoup.parse(file3,"UTF-16");
 	        
-			}catch (HttpException e) {
-				System.err.println("Fatal protocol violation: " + e.getMessage());
-				e.printStackTrace();
-			} catch (IOException e) {
-				System.err.println("Fatal transport error: " + e.getMessage());
-				e.printStackTrace();
-			}finally {
-				// Release the connection.
-				getMethod.releaseConnection();
-				
-			}
+		}catch (HttpException e) {
+			System.err.println("Fatal protocol violation: " + e.getMessage());
+			e.printStackTrace();
+		} catch (IOException e) {
+			System.err.println("Fatal transport error: " + e.getMessage());
+			e.printStackTrace();
+		}finally {
+			getMethod.releaseConnection();
+		}
 		return doc;
 	}
 	
