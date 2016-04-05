@@ -1,0 +1,52 @@
+D---[Detecting Community Kernels in Large Social Networks, Discovering the staring people from social networks, Dynamic Social Influence Analysis through Time-dependent Factor Graphs]
+
+E---[Expert finding in a social network, Email data cleaning, Eos: expertise oriented search using social networks, Extraction and mining of an academic social network, Expert2bole: From expert finding to bole search, Expertise search in a time-varying social network, Expertise matching via constraint-based optimization, Enhancing Semantic Web by Semantic Annotation: Experiences in Building an Automatic Conference Calendar, Entire Solution Path for Support Vector Machine for Positive and Unlabeled Classification]
+
+F---[Finding Complex Biological Relationships in Recent PubMed Articles Using Bio-LDA, Feature-correlation based multi-view detection, Forecasting Potential Diabetes Complications]
+
+G---[Generation of personalized ontology based on consumer emotion and behavior analysis]
+
+A---[Arnetminer: extraction and mining of academic social networks, Automatic Ontology Mapping in Semantic Web, A topic modeling approach and its integration into the random walk framework for academic search, A combination approach to web user profiling, A discriminative approach to Topic-Based citation recommendation, A unified probabilistic framework for name disambiguation in digital library, Arnetminer: An expertise oriented search system for web community, A Survey of Models and Algorithms for Social Influence Analysis, A constraint-based probabilistic framework for name disambiguation, A mixture model for expert finding, A gauss function based approach for unbalanced ontology matching, Actively learning ontology matching via user interaction, A tag recommendation system for folksonomy, A unified approach to researcher profiling, A collaborative filtering tag recommendation system based on graph, Association search in semantic web: search+ inference, Academic conference homepage understanding using constrained hierarchical conditional random fields, A tag recommendation system based on contents, ADANA: Active Name Disambiguation, Arnetminer: expertise oriented search using social networks, A unified tagging approach to text normalization, Actively learning to infer social ties, Adding community and dynamic to topic models, A flexible topic-driven framework for news exploration, A unified framework for name disambiguation, A unified approach to matching semantic data on the Web, Automatically Grouping Questions in Yahoo! Answers, A constraint-based topic modeling approach for name disambiguation, Automatic Semantic Annotation Using Machine Learning, A New Approach to Personal Network Search based on Information Extraction. Demo paper, A Component retrieval method based on facet-weight self-learning, Accelerating topic model training on a single machine, ArnetMiner: Extraction and Mining of an Academic Researcher Social Network, ACTPred: Activity Prediction in Mobile Social Networks, Active Learning for Networked Data Based on Non-progressive Diffusion Model, Accurate Product Name Recognition from User Generated Content]
+
+B---[Batch Mode Active Learning for Networked Data, Boosting Cross-lingual Knowledge Linking via Concept Annotation]
+
+C---[Cross-domain collaboration recommendation, Community evolution detection in dynamic heterogeneous information networks, Cross-lingual knowledge linking across wiki knowledge bases, Community-based topic modeling for social tagging, Confluence: Conformity Influence in Large Social Networks, Citation Count Prediction: Learning to Estimate Future Citations for Literature, Can We Understand van Gogh’s Mood? Learning to Infer Affects from Images in Social Networks, Combining link and content for collective active learning, Computational models for social influence analysis:[extended abstract], Co-Evolution of Multi-Typed Objects in Dynamic Star Networks]
+
+*---[* Toward Strategy Selection for Ontology Alignment]
+
+L---[Learning to infer social ties in large networks, Link prediction and recommendation across heterogeneous social networks, Learning influence from heterogeneous social networks, Learning to predict reciprocity and triadic closure in social networks, Loss minimization based keyword distillation, Learning to Diversify Expert Finding with Subtopics, Learning to Infer Public Emotions from Large-Scale Networked Voice Data, Large scale instance matching via multiple indexes and candidate selection, Learning to advertise: how many ads are enough?]
+
+M---[Mining topic-level influence in heterogeneous networks, Mining advisor-advisee relationships from research publication networks, Multi-topic based query-oriented summarization, MoodCast: emotion prediction via dynamic continuous factor graph model, Mining structural hole spanners through information diffusion in social networks, Mining Relational Paths in Integrated Biomedical Data, Modeling topic and community structure in social tagging: The TTR‐LDA‐Community model, Multiple strategies detection in ontology mapping, Modeling the evolution of associated data, Mining Competitive Relationships by Learning across Heterogeneous Networks, Mining diversity subgraph in multidisciplinary scientific collaboration networks: A meso perspective, Mining topic-level opinion influence in microblog, Modeling indirect influence on twitter, Mquery: Fast graph query via semantic indexing for mobile context, Mining diabetes complication and treatment patterns for clinical decision support, Multiple-Instance Learning with Instance Selection via Constructive Covering Algorithm, Mining triadic closure patterns in social networks, Modeling Emotion Influence from Images in Social Networks, Models and algorithms for social influence analysis]
+
+N---[Name disambiguation using atomic clusters]
+
+O---[On optimization of expertise matching with various constraints, Oolam: an opinion oriented link analysis model for influence persona discovery, On a connection between importance sampling and the likelihood ratio policy gradient, Ontology mapping based on existing mapping result [J], On Modelling Non-linear Topical Dependencies]
+
+H---[Heterogeneous cross domain ranking in latent space, How Long Will She Call Me? Distribution, Social Theory and Duration Prediction, How Do Your Friends on Social Media Disclose Your Emotions?, Home localization system for misplaced objects]
+
+I---[Inferring Social Ties across Heterogenous Networks, Information extraction: Methodologies and applications, Inferring Geographic Coincidence in Ephemeral Social Networks, Identifying new categories in community question answering archives: a topic modeling approach, Influence Maximization in Dynamic Social Networks, Instant Social Graph Search, Inferring social status and rich club effects in enterprise communication networks]
+
+i---[iASA: learning to annotate the semantic web]
+
+基---[基于条件随机场 (CRFs) 的中文词性标注方法]
+
+K---[Keyword extraction using support vector machine, Knowledge transfer across multilingual corpora via latent topics, Keyword extraction based peer clustering]
+
+U---[Using Bayesian decision for ontology mapping, User-level sentiment analysis incorporating social networks, Understanding retweeting behaviors in social networks, Understanding the Emotional Impact of Images, Using DAML+OIL to Enhance Search Semantic]
+
+T---[Tree-structured conditional random fields for semantic annotation, Towards ontology learning from folksonomies, Topic level expertise search over heterogeneous networks, Toward detecting mapping strategies for ontology interoperability, The dynamic features of Delicious, Flickr, and YouTube, Topic-level social network search, Topic distributions over links on web, Topic-level random walk through probabilistic model, To better stand on the shoulder of giants, Table detection from plain text using machine learning and document structure, Typicality-Based Collaborative Filtering Recommendation, TyCo: Towards Typicality-based Collaborative Filtering Recommendation, Tri-modal speech recognition for noisy and variable lighting conditions, There is more than complex contagion: an indirect influence analysis on Twitter, Transfer Learning Based Cross-lingual Knowledge Extraction for Wikipedia, Term Filtering with Bounded Error]
+
+W---[Who Will Follow You Back? Reciprocal Relationship Prediction, Weighted ontology-based search exploiting semantic similarity, What is the Nature of Chinese MicroBlogging: Unveiling the Unique Features of Tencent Weibo, What Users Care about: A Framework for Social Content Alignment]
+
+V---[Verification of Web Service Conversations Specified in WSCL]
+
+Q---[Quantitative Study of Individual Emotional States in Social Networks, Query-focused summarization by combining topic model and affinity propagation, Query-dependent cross-domain ranking in heterogeneous network]
+
+P---[PatentMiner: topic-driven patent analysis and mining, Plink-LDA: Using Link as Prior Information in Topic Modeling, Patent partner recommendation in enterprise social networks, Path Similarity Based Directory Ontology Matching]
+
+S---[Social influence analysis in large-scale networks, Social network extraction of academic researchers, Social action tracking via noise tolerant time-varying factor graphs, Social context summarization, Social community analysis via factor graph model, Social influence locality for modeling retweeting behaviors, Semantic similarity based ontology cache, Semantic Based Web Services Discovery, Semantic Annotation Using Horizontal and Vertical Contexts, SWARMS: A New Tool for Domain Exploration in Semantic Web, Sentiment diffusion in large scale social networks, SAE: Social Analytic Engine for Large Networks]
+
+R---[Rimom: A dynamic multistrategy ontology alignment framework, Result of Ontology Alignment with RiMOM at OAEI'06., RiMOM results for OAEI 2008, RiMOM results for OAEI 2010, Recommendation over a heterogeneous social network, Risk minimization based ontology mapping, Rimom: Ontology alignment with strategy selection, Recommendation based on object typicality, Resource association discovery in semantic Web, Role-aware Conformity Influence Modeling and Analysis in Social Networks, Research of atomic and anonymous electronic commerce protocol]
+
+X---[XLore: A Large-scale English-Chinese Bilingual Knowledge Graph.]
+

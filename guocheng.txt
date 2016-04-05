@@ -1,0 +1,26 @@
+16Bo Wang, Jie Tang, Wei Fan, Songcan Chen, Chenhao Tan, and Zi Yang. Query-dependent Cross Domain Ranking in Heterogenous Network. , 2013, Volume 34, Issue 1, pages 109-145. ( =2.225) []  未出现在google主页
+
+
+
+38Juanzi Li, Jie Tang, Yi Li, and Qiong Luo. RiMOM: A Dynamic Multi-Strategy Ontology Alignment Framework. (). August 2009 (vol. 21 no. 8) pp. 1218-1232. ( =2.236) [] [] ( )  未出现在google主页
+
+
+39Limin Yao, Jie Tang, and Juanzi Li. Entire Solution Path for Support Vector Machine in Positive and Unlabeled Classification. , 2009. []  未出现在google主页
+
+
+70Jie Tang, Tiancheng Lou, and Jon Kleinberg. Inferring Social Ties across Heterogen(e)ous Networks. In (). pp. 743-752. (Plenary presentation) [] [] []  未出现在google主页
+
+
+74Yuxiao Dong, Jie Tang, Sen Wu, Jilei Tian, Nitesh Chawla, Jinghai Rao, and Huanhuan Cao. Link Prediction and Recommendation across Heterogen(e)ous Social Networks. In (). pp. 181-190. []  未出现在google主页
+
+
+153Jie Tang, Mingcai Hong, Jing Zhang, Bangyong Liang, and Juanzi Li. A New Approach to Personal Network Search based on Information Extraction. (Demo paper). In (). [] []  未出现在google主页
+
+
+
+157Kuo Zhang, Jie Tang, Mingcai Hong, and Juanzi Li. Weighted Ontology based (Semantic) Search Exploiting Semantic Similarity. In (). pp. 498-510  未出现在google主页
+
+
+
+
+

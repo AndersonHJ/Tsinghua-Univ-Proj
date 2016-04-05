@@ -1,0 +1,111 @@
+1: 
+Daifeng Li, Ying Ding, Xin Shuai, Guozheng Sun, Jie Tang, Zhipeng Luo, Jingwei Zhang, and Tamy Chambers. Topic-Level Opinion Influence Model (TOIM): An Investigation Using Tencent Microblogging. (), (accepted). []  未出现在google主页
+
+2: 
+Steven J. Anderson, ACM Fong and Jie Tang. Robust tri-modal automatic speech recognition for consumer applications. (), 2013, Volume 59, Issue 2.  未出现在google主页
+
+3: 
+Zhong-Yuan Zhang, Tao Li, Chris Ding, and Jie Tang. A NMF-framework for Unifying Posterior Probabilistic Clustering and Probabilistic Latent Semantic Indexing. In . (to appear) ( =0.274).  未出现在google主页
+
+4: 
+Bo Wang, Jie Tang, Wei Fan, Songcan Chen, Chenhao Tan, and Zi Yang. Query-dependent Cross Domain Ranking in Heterogenous Network. , 2013, Volume 34, Issue 1, pages 109-145. ( =2.225) []  未出现在google主页
+
+5: 
+Zhong-Yuan Zhang, Chris Ding, and Jie Tang. Note on Algorithm Differences Between Nonnegative Matrix Factorization And Probabilistic Latent Semantic Indexing. , Volume 6, Number 9, September 2011, Pages 210-219. []  未出现在google主页
+
+6: 
+Jie Tang and Jing Zhang. Modeling Evolution of Associated Data. (DKE), 2010, Volume 69, Issue 9, pages 965-978. ( =1.745) [] []  未出现在google主页
+
+7: 
+Juanzi Li, Jie Tang, Yi Li, and Qiong Luo. RiMOM: A Dynamic Multi-Strategy Ontology Alignment Framework. (). August 2009 (vol. 21 no. 8) pp. 1218-1232. ( =2.236) [] [] ( )  未出现在google主页
+
+8: 
+Limin Yao, Jie Tang, and Juanzi Li. Entire Solution Path for Support Vector Machine in Positive and Unlabeled Classification. , 2009. []  未出现在google主页
+
+9: 
+Yuxiao Dong, Yang Yang, Jie Tang, Yang Yang, and Nitesh V. Chawla. Inferring User Demographics and Social Strategies in Mobile Social Networks. In (). [] (Oral Presentation)  未出现在google主页
+
+10: 
+Mi Zhang, Jie Tang, Xuchen Zhang, Xiangyang Xue. Addressing Cold Start in Recommender Systems: A Semi-supervised Co-training Algorithm. In (). []  未出现在google主页
+
+11: 
+Zhigang Wang, Juanzi Li, Shuangjie Li, Mingyang Li, Jie Tang, Kuo Zhang, and Kun Zhang. Cross-lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis. In (). []  未出现在google主页
+
+12: 
+Jar-Der Luo, Ling Zhou, Yun Zhou, and Jie Tang. Why Do Chinese Venture Capitals Invest Jointly? An Analysis of Complex Investment Network. In ().  未出现在google主页
+
+13: 
+Juhua Hu, Jian Pei, and Jie Tang. How Can I Index My Thousands of Photos Effectively and Automatically? An Unsupervised Feature Selection Approach. In (). pp. 136-144. []  未出现在google主页
+
+14: 
+Yang Yang, Jianfei Wang, Yutao Zhang, Wei Chen, Jing Zhang, Honglei Zhuang, Zhilin Yang, Bo Ma, Zhanpeng Fang, Sen Wu, Xiaoxiao Li, Debing Liu, and Jie Tang. SAE: Social Analytic Engine for Dynamic Networks. In (). pp. 1502-1505. [] []  未出现在google主页
+
+15: 
+Jie Tang, Tiancheng Lou, and Jon Kleinberg. Inferring Social Ties across Heterogeneous Networks. In (). pp. 743-752. (Plenary presentation) [] [] []  未出现在google主页
+
+16: 
+Ivan Vuli?c, Wim De Smet, Jie Tang, and Marie-Francine Moens. Probabilistic Topic Modeling in Multilingual Settings: A Short Overview of Its Methodology and Applications In (). []  未出现在google主页
+
+17: 
+Yuxiao Dong, Jie Tang, Sen Wu, Jilei Tian, Nitesh Chawla, Jinghai Rao, and Huanhuan Cao. Link Prediction and Recommendation across Heterogenous Social Networks. In (). pp. 181-190. []  未出现在google主页
+
+18: 
+Xiao Zhang, Qian Zhong, Feng Shi, Juanzi Li, and Jie Tang. RiMOM Results for OAEI 2009. In ().  未出现在google主页
+
+19: 
+Xiao Zhang, Qian Zhong, Juanzi Li, Jie Tang. Result of Ontology Alignment with RiMOM at OAEI'08. In ().  未出现在google主页
+
+20: 
+Juanzi Li, Gui-rong Xue, Jie Tang, and Ying Ding. WWW 2008 workshop on social web search and mining: SWSM2008. In (). ACM Press. pp. 1281-1282.  未出现在google主页
+
+21: 
+Jie Tang, Mingcai Hong, Jing Zhang, Bangyong Liang, Limin Yao, and Juanzi Li. ArnetMiner: Toward Building and Mining Social Networks. In (). (Demo Session)  未出现在google主页
+
+22: 
+Yi Li, Qian Zhong, Juanzi Li, Jie Tang. Result of Ontology Alignment with RiMOM at OAEI'07. In ( ).  未出现在google主页
+
+23: 
+Yi Li, Jie Tang, Duo Zhang, and Juanzi Li. Toward Strategy Selection for Ontology Alignment. (Poster) In ().  未出现在google主页
+
+24: 
+Duo Zhang, Mingcai Hong, and Jie Tang. Social SIM Networks. (). In the ().  未出现在google主页
+
+25: 
+Yi Li, Juanzi Li, Duo Zhang, and Jie Tang. Result of Ontology Alignment with RiMOM at OAEI'06. In ( ). [] []  未出现在google主页
+
+26: 
+Jie Tang, Mingcai Hong, Jing Zhang, Bangyong Liang, and Juanzi Li. A New Approach to Personal Network Search based on Information Extraction. (Demo paper). In (). [] []  未出现在google主页
+
+27: 
+Bangyong Liang, Jie Tang, Juanzi Li, and Kehong Wang. SWARMS: A Tool for Domain Exploration in Semantic Web and its Application in FOAF Domain. (Demo paper). In(). [] []  未出现在google主页
+
+28: 
+Bangyong Liang, Jie Tang, Juanzi Li, and Kehong Wang. ?SWARMS: A Tool for Domain Exploration in Semantic Web. In ().  未出现在google主页
+
+29: 
+Kuo Zhang, Jie Tang, Mingcai Hong, and Juanzi Li. Weighted Ontology based Semantic Search Exploiting Semantic Similarity. In (). pp. 498-510  未出现在google主页
+
+30: 
+Bangyong Liang, Jie Tang, and Juanzi Li. SWARMS: A Tool for Exploring Domain Knowledge. In ().  未出现在google主页
+
+31: 
+Jie Tang, Bangyong Liang, and Juanzi Li. Toward Detecting Strategies for Ontology Mapping. In .  未出现在google主页
+
+32: 
+Jie Tang, Juanzi Li, Kehong Wang, and Yueru Cai. Multi-Senses and Multi-Dependencies Discovery among Words. In . IEEE Press. 2003, 10. pp. 132-137  未出现在google主页
+
+33: 
+Jie Tang, Juanzi Li, Kehong Wang, and Yueru Cai. Research of Satisfied Atomic and Anonymous Electronic Commerce Protocol. In (GCC'03), Dec., 2003. pp. 319-326  未出现在google主页
+
+34: 
+仲茜, 李涓子, 唐杰和周立柱. 基于数据场的大规模本体映射. , 2010, 33(6):955-965. []  未出现在google主页
+
+35: 
+仲茜, 李涓子, 李毅, 唐杰和周立柱. 基于已有映射结果的本体映射. , 2008, 48(7):1178-1181. []  未出现在google主页
+
+36: 
+唐杰, 梁邦勇, 李涓子和王克宏. 语义Web 中的本体自动映射. , 2006, 11:1956-1976. []  未出现在google主页
+
+37: 
+吴刚, 唐杰, 李涓子和王克宏. 细粒度语义网检索. , 2005, 45(9):1865-1872. []  未出现在google主页
+
